@@ -347,6 +347,7 @@ h4{
     }
     .imgPrincipal{
         margin: 100px 190px 20px;
+        padding-bottom: 20px;
         height: 200px;
         width: 200px;
     }
